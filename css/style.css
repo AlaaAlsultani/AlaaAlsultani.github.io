@@ -1,0 +1,82 @@
+.nav-pills{
+  background-color:black; 
+  font-family:lobster;
+  font-size:20px;
+
+  margin-bottom:10%;
+}
+body{
+  background-color:black;
+       font-family:lobster;
+color:white;
+
+}
+.block{
+  background-color:black;
+  opacity:.7;
+  padding:15px;
+    width:50%;
+
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+  
+}
+.btn-default{
+  background-color:black;
+  color:#337ab7;
+  font-size:30px;
+}
+h1{
+  font-size:5.0em
+    padding:0;
+  margin-top:0px;
+  padding-top:0
+}
+.pageOne {
+ background:url("https://images.unsplash.com/photo-1490289211021-971b70434bfb?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=ina-soulis-227094.jpg&s=dce3346e254c8bb4fcd1e17c40d4576c");
+background-size:cover;
+padding-bottom:10%
+
+  
+
+ 
+}
+  
+
+.pageTwo{
+  background:url("https://wallpaperscraft.com/image/zenit_retro_camera_photos_map_107245_3840x2160.jpg");
+ background-size:cover;
+   height:700px;
+  padding-top:7%;
+}
+p{
+  font-size:2.0em;
+  padding-left:50px;
+}
+.pageThree{
+  background:url(" https://images.unsplash.com/photo-1499952748986-01abb469a8d5?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=egzon-bytyqi-310216.jpg&s=66d6bde57b0f210e7f1b983d53652399");
+ background-size:cover;
+   height:800px;
+  padding-top:5%;
+}
+
+
+
+
+.contact{
+  font-size:15px;
+color:black;
+  padding-top:50px;
+ 
+  
+}
+.footer-info{
+  padding-top:15%;
+  
+}
+h2{
+  padding-bottom:5%;
+  font-size:40px;
+  padding-left:60px;
+}
